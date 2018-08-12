@@ -38,5 +38,5 @@ jspm_packages/
 .nuxt
 
 # renderer content
-./app/renderer/*
-./app/renderer/!generated_content.md
+app/renderer/*
+!app/renderer/generated_content.md
