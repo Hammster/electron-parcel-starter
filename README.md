@@ -4,7 +4,7 @@ This is my customized starter project for Electron.
 
 ## Scripts
 
-- `watch`: Starts parcel to build src/*
+- `dev`: Starts parcel to build src/* and attaches a electron process
 - `start`: Starts electron
 
 ## Folders
